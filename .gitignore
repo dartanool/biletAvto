@@ -1,0 +1,19 @@
+.env
+.idea
+
+# System files
+.DS_Store
+*/.DS_Store
+
+# SSH directory
+~/.ssh/
+
+# Docker logs
+docker/logs/
+*/logs/
+
+# Lock files (optional)
+# package-lock.json.env
+
+# Node
+node_modules/
